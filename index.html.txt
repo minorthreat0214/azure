@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Welcome to My Azure Web Application</h1>
-    <p>This is the custom statement on my home page.</p>
+    <p>WELCOME to AZFK-Tech World.</p>
 </body>
 </html>
